@@ -3,6 +3,7 @@ analyze the movement of a person's knee during a single-leg squat
 
 ## Project Demonstration
 20-minute video presentation: 
+
 Brief written summary:
 
 ## Project Overview

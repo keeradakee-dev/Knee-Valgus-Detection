@@ -1,4 +1,9 @@
-# AI-Based Knee Valgus Detection Using MediaPipe and Gradio
+# Knee Valgus Detection
+analyze the movement of a person's knee during a single-leg squat
+
+## Project Demonstration
+20-minute video presentation: 
+Brief written summary:
 
 ## Project Overview
 This project demonstrates a computer-vision prototype for analyzing knee movement during a single-leg squat using a front-facing video.
@@ -62,9 +67,3 @@ These findings are preliminary and have not been clinically validated.
 - Train and evaluate a valgus-versus-normal classifier.
 - Improve repetition detection and angle validation.
 - Incorporate real-time webcam feedback.
-
-## Project Demonstration
-20-minute video presentation: To be added.
-
-## Disclaimer
-This is an educational research prototype and must not be used for medical diagnosis or clinical decision-making.

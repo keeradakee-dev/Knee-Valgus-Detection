@@ -2,7 +2,7 @@
 analyze the movement of a person's knee during a single-leg squat
 
 ## Project Demonstration
-20-minute video presentation: 
+20-minute video presentation: https://drive.google.com/file/d/1kvC9462UkzBF1HFN7Q2AieC7OrBVsS4Y/view?usp=drivesdk
 
 Brief written summary:
 

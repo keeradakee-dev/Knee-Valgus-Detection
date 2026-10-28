@@ -7,29 +7,15 @@ analyze the movement of a person's knee during a single-leg squat
 Brief written summary:
 
 ## Project Overview
-This project demonstrates a computer-vision prototype for analyzing knee movement during a single-leg squat using a front-facing video.
+The main goal of this project is to develop a simple AI-based system that can analyze knee movement from a video.
 
-The system uses MediaPipe Pose Landmarker to identify the patient's left hip, knee, and ankle, calculates 2D projected knee alignment, and generates an annotated video displaying movement direction.
+The project aims to estimate how many degrees of knee deviation inward or outward during a single-leg squat. 
 
-An interactive Gradio interface allows users to upload a squat video and view the processed results.
+This project uses MediaPipe for human pose detection, 
 
-## Project Objectives
-1. Detect human pose landmarks using MediaPipe.
-2. Calculate projected knee alignment during a single-leg squat.
-3. Identify squat movement phases and candidate repetitions.
-4. Visualize knee movement using graphs and annotated videos.
-5. Build an interactive Gradio application.
+Python for calculating knee angles, and 
 
-## Technologies Used
-- Python
-- Google Colab
-- MediaPipe
-- OpenCV
-- NumPy
-- Matplotlib
-- Pandas
-- SciPy
-- Gradio
+Gradio for creating an interactive web application.
 
 ## Methodology
 1. Upload a front-facing single-leg squat video.
